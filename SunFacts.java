@@ -1,3 +1,5 @@
+// This program uses E notation.
+
 public class SunFacts
 {
    public static void main(String[] args)
